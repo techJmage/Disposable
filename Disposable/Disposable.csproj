@@ -1,0 +1,15 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+	<PropertyGroup>
+		<TargetFramework>net8.0</TargetFramework>
+		<ImplicitUsings>enable</ImplicitUsings>
+		<Nullable>enable</Nullable>
+		<GeneratePackageOnBuild>True</GeneratePackageOnBuild>
+		<Authors>Tech J Mage</Authors>
+		<PackageProjectUrl>https://github.com/techJmage/Disposable</PackageProjectUrl>
+		<Title>Disposable</Title>
+		<VersionPrefix>1.1.2</VersionPrefix>
+		<AssemblyName>Utility.$(MSBuildProjectName)</AssemblyName>
+	</PropertyGroup>
+
+</Project>
